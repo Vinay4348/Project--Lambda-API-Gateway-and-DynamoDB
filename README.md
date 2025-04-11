@@ -1,5 +1,6 @@
 # Project Title: Serverless Web Application with AWS Lambda, API Gateway, and DynamoDB
-#Project Description:
+
+# Description:
 This project demonstrates a serverless architecture built on AWS to handle user-submitted form data via a web interface.It leverages API Gateway, AWS Lambda, S3, IAM, and DynamoDB for a lightweight, scalable, and cost-effective solution.
 
 
